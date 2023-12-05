@@ -2,12 +2,15 @@
 
 ---
 
-### :man_technologist: Обо мне:
+: Обо мне:
+Я начинающий специалист в анализе данных с фундаментальными знаниями в области статистики, и программирования на Python и SQL. Нравится работать со сложными задачами, заниматься автоматизацией процессов, применять свои навыки программирования к задачам для работы с данными. Хочу развиваться, как аналитик данных в продуктовой команде, где готовы к креативным подходам решения задач.
+Контакты:
+t.me/fin3skin/
++79120593433
+kostyl3v-pavel@yandex.ru
 
-Я начинающий аналитик данных<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> с практическим опытом, полученным через курсы Karpov.Courses и Stepik. Сфокусирован на решении бизнес-задач с помощью аналитических инструментов и технологий. Люблю работу с большими объемами информации и всегда ищу способы улучшить процессы сбора, обработки и интерпретации данных.
 
 
-- :iphone: My socials: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/finesyazxc/)[![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/pavel_fineskin)[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)]()[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)[![Stepik Badge](https://img.shields.io/badge/-Stepik-black?style=flat&logo=STMicroelectronics&logoColor=white)](https://stepik.org/users/116836890/)[![Habr Badge](https://img.shields.io/badge/-Habr-9cf?style=flat&logo=Habr&logoColor=white)]()
 
 
 ---
